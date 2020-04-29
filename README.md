@@ -1,19 +1,19 @@
 <table>
       <tbody>
         <tr>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
         </tr>
         <tr>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
-          <td>고대용</td>
-       </tr>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+        </tr>
       </tbody>
 </table>
 
