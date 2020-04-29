@@ -9,7 +9,7 @@
         </tr>
         <tr>
           <td>영빈</td>
-          <td>영빈</td>
+          <td>아름</td>
           <td>영빈</td>
           <td>영빈</td>
           <td>영빈</td>
