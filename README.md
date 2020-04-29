@@ -13,7 +13,7 @@
           <td>고대용</td>
           <td>고대용</td>
           <td>고대용</td>
-        </tr>
+       </tr>
       </tbody>
 </table>
 
