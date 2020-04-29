@@ -9,10 +9,10 @@
         </tr>
         <tr>
           <td>영빈</td>
-          <td>아름</td>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
+          <td>미란</td>
+          <td>정엽</td>
+          <td>대용</td>
+          <td>경호</td>
         </tr>
       </tbody>
 </table>
