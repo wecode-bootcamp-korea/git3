@@ -2,17 +2,17 @@
       <tbody>
         <tr>
           <td>송정엽</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
+          <td>송정엽</td>
         </tr>
       </tbody>
 </table>
