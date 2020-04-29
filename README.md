@@ -1,19 +1,19 @@
 <table>
       <tbody>
         <tr>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
         </tr>
         <tr>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
-          <td>송정엽</td>
-        </tr>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
+          <td>고대용</td>
+       </tr>
       </tbody>
 </table>
 
