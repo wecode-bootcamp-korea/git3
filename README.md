@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
         </tr>
         <tr>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
-          <td>영빈</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
         </tr>
       </tbody>
 </table>
