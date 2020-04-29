@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 고대용
 =======
 hjhii
@@ -11,3 +12,6 @@ print("땅따먹자")
 >>>>>>> 1c6a6676b5048abb98783df3bb4f9dbad6db6089
 
 >>>>>>> 1c6a6676b5048abb98783df3bb4f9dbad6db6089
+=======
+송정엽!
+>>>>>>> cdc06bc90d4abdd85af8dbafec00a41cfeeee504
