@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>커밋1</td>
+          <td>커밋2</td>
+          <td>커밋2</td>
+          <td>커밋2</td>
+          <td>커밋3</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>커밋3</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
+          <td>권미란</td>
         </tr>
       </tbody>
 </table>
