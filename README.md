@@ -1,31 +1,23 @@
 <table>
       <tbody>
         <tr>
-<<<<<<< HEAD
-          <td>dsdfsddd</td>
-          <td>sdsfss</td>
-          <td>dsdfsad</td>
-          <td>assdfdas</td>
-          <td>asdsfas</td>
-=======
-          <td>sdqqw</td>
-          <td>david</td>
-          <td>david2</td>
-          <td>david3</td>
-          <td>권미란</td>
->>>>>>> 77b5764... wip
+          <td>서준표</td>
+          <td>서준표</td>
+          <td>서준표</td>
+          <td>서준표</td>
+          <td>서준표</td>
         </tr>
         <tr>
-          <td>권미dsf란</td>
-          <td>권sdf미란</td>
-          <td>권미란</td>
-          <td>권미란</td>
-          <td>권미란</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
       </tbody>
 </table>
 
 ## 땅따먹기 게임
 
-- 테이블 시트에 본인의 이름을 남기고 팀의 repository에 add, commit, push 해주세요.
-- 제한시간 5분 이후에 가장 많은 이름을 남긴 사람이 우승!
+- 건들지 마시오!
+- Rebase 이해가 안간다 ㅡㅅㅡ
