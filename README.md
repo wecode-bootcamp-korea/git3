@@ -1,11 +1,11 @@
 <table>
       <tbody>
         <tr>
-          <td>권미란</td>
-          <td>권미란</td>
-          <td>권미란</td>
-          <td>권미란</td>
-          <td>권미란</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
+          <td>김혜랑</td>
         </tr>
         <tr>
           <td>권미란</td>
